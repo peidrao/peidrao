@@ -1,4 +1,6 @@
 ### Hi, I'm Pedro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p>
+
 <a href="https://twitter.com/peidrao">
   <img align="left" alt="Pedro Victor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -17,6 +19,8 @@
 <a href="https://gitlab.com/peidrao">
   <img align="left" alt="GitLab's Pedro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
+
+</p>
 
 <br />
 <p>
