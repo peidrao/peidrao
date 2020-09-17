@@ -21,13 +21,14 @@
 <br>
 
 💻 Developer Web and UX student
+<br>
 🏡 Brazilian, Based in Natal, RN 
 
 
 <br />
 
 
-  <img align="right" alt="GIF" src="https://github.com/peidrao/peidrao/blob/master/imagem.jpg?raw=true" width="500" height="320" />
+  <img align="right" alt="imagem" src="https://github.com/peidrao/peidrao/blob/master/imagem.jpg?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
