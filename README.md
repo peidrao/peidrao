@@ -19,10 +19,12 @@
 <a href="https://gitlab.com/peidrao">
   <img align="left" alt="GitLab's Pedro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
-
+<br />
 </p>
 
-<br />
+
+
+
 <p>
 💻 Developer Web and UX student
 <br />
