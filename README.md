@@ -18,7 +18,7 @@
   <img align="left" alt="GitLab's Pedro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
 
-<br />
+<br>
 
 💻 Developer Web and UX student  <br />
 🏡 Brazilian, Based in Natal, RN 
@@ -34,7 +34,7 @@
 - [Usando Registro.br em aplicação do Heroku](https://medium.com/@peidrao/usando-registro-br-em-aplica%C3%A7%C3%A3o-do-heroku-1334492ed24c)
 
   
-  <img align="right" alt="GIF" src="./imagem.jpg" width="500" height="320" />
+  <img align="right" alt="image" src="https://github.com/peidrao/peidrao/blob/master/imagem.jpg?raw=true" width="500" height="320" />
 
   
 
