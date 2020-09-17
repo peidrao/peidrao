@@ -19,7 +19,7 @@
 </a>
 
 
-<br>
+
 💻 Developer Web and UX student
 
 
