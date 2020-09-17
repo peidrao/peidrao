@@ -20,11 +20,18 @@
 
 <br>
 
-💻 Developer Web and UX student  <br />
+💻 Developer Web and UX student
 🏡 Brazilian, Based in Natal, RN 
 
 
 <br />
+
+
+  <img align="right" alt="GIF" src="https://github.com/peidrao/peidrao/blob/master/imagem.jpg?raw=true" width="500" height="320" />
+  
+**Talking about Personal Stuffs:**
+
+- 💬 Ask me about anything, I am happy to help;
 
 ### 📕 Latest Blog Posts
 
@@ -34,7 +41,7 @@
 - [Usando Registro.br em aplicação do Heroku](https://medium.com/@peidrao/usando-registro-br-em-aplica%C3%A7%C3%A3o-do-heroku-1334492ed24c)
 
   
-  <img align="right" alt="image" src="https://github.com/peidrao/peidrao/blob/master/imagem.jpg?raw=true" width="500" height="320" />
+
 
   
 
