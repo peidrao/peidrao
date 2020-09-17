@@ -26,9 +26,7 @@
 
 
 <p>
-💻 Developer Web and UX student
-<br />
-
+💻 Developer Web and UX student <br />
 🏡 Brazilian, Based in Natal, RN 
 </p>
 
