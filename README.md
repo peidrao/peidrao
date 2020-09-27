@@ -42,10 +42,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Guia de sobrevivência: Typescript no Vim](https://medium.com/@peidrao/guia-de-sobreviv%C3%AAncia-typescript-no-vim-81d514b9abaf)
 - [Problema com live reload no React.Js](https://medium.com/@peidrao/problema-com-live-reload-no-react-js-aa083c608f2a)
 - [Precisamos falar sobre Deno](https://medium.com/@peidrao/precisamos-falar-sobre-deno-e4ff31ba013f)
-- [Usando Registro.br em aplicação do Heroku](https://medium.com/@peidrao/usando-registro-br-em-aplica%C3%A7%C3%A3o-do-heroku-1334492ed24c)
-
   
 
 
