@@ -1,17 +1,8 @@
 ### Hi, I'm Pedro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p>
 
-<a target="blank"  href="https://twitter.com/peidrao">
-  <img align="left" alt="Pedro Victor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a target="_blank"  href="https://www.linkedin.com/in/peidrao/">
   <img align="left" alt="Pedro's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank"  href="https://t.me/peidrao">
-  <img align="left" alt="PEdro's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a target="_blank"  href="https://www.instagram.com/peidrao/">
-  <img align="left" alt="Pedro's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a target="_blank"  href="https://medium.com/@peidrao">
   <img align="left" alt="Medium's Pedro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
