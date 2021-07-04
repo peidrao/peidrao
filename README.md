@@ -18,7 +18,7 @@
 
 <p>
 💻 Developer web <br />
-🏡 Brazilian, Based in Natal, RN 
+🏡 Brazilian, Based in Parelhas, RN 
 </p>
 
 <br />
