@@ -8,7 +8,7 @@
   <img align="left" alt="Medium's Pedro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a target="_blank"  href="https://gitlab.com/peidrao">
-  <img align="left" alt="GitLab's Pedro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+  <img align="left" style="color: red;" alt="GitLab's Pedro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
 <br />
 </p>
