@@ -1,21 +1,10 @@
 ### Hi, I'm Pedro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p>
 
-<a target="_blank"  href="https://www.linkedin.com/in/peidrao/">
-  <img align="left" alt="Pedro's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank"  href="https://medium.com/@peidrao">
-  <img align="left" alt="Medium's Pedro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a target="_blank"  href="https://gitlab.com/peidrao">
-  <img align="left" style="color: red;" alt="GitLab's Pedro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
-</a>
-<br />
-</p>
-
-
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-pedrofonsecaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrofonsecaa/)](https://www.linkedin.com/in/pedrofonsecaa/)
+[![Medium Badge](https://img.shields.io/badge/-@peidrao-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@peidrao)](https://medium.com/@peidrao)
+[![Gmail Badge](https://img.shields.io/badge/-contatopedrorn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatopedrorn@gmail.com)](mailto:contatopedrorn@gmail.com)
+  
 <p>
 💻 Developer web <br />
 🏡 Brazilian, Based in Parelhas, RN 
