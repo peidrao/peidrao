@@ -1,4 +1,4 @@
-### Hi, I'm Pedro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Pedro 
 
 [![LinkedIn](https://img.shields.io/badge/pedrofonsecaa-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrofonsecaa/)
 [![Medium](https://img.shields.io/badge/peidrao-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@peidrao)
