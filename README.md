@@ -42,8 +42,8 @@
 ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat&logo=xfce&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NEOVIM-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 ![TOR](https://img.shields.io/badge/TOR-%237E4798.svg?style=flat&logo=tor-project&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
-https://img.shields.io/badge/CSGO-0769AD.svg?&style=flat&logo=counterstrike&logoColor=black
+![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)
+![CSGO](https://img.shields.io/badge/CSGO-0769AD.svg?&style=flat&logo=counterstrike&logoColor=black)&nbsp;
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=peidrao&hide=["issues"]&show_icons=true&theme=dracula)
 
