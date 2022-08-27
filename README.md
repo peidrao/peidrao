@@ -45,8 +45,7 @@
 ![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)
 ![CSGO](https://img.shields.io/badge/CSGO-0769AD.svg?&style=flat&logo=counterstrike&logoColor=black)&nbsp;
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=peidrao&hide=["issues"]&show_icons=true&theme=dracula)
-
+### :timer_clock: WakaTime metrics 
 
 <!--START_SECTION:waka-->
 
