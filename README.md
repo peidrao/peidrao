@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/contatopedrorn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatopedrorn@gmail.com)
 
 💻 BackEnd Developer <br />
-🏡 Brazilian, Based in Natal, RN 
+🏡 Brazilian, Based in Cuiabá, MT 
 
 
 <img align="right" alt="imagem" src="https://github.com/peidrao/peidrao/blob/main/test.png?raw=true" width="500" height="320" />
