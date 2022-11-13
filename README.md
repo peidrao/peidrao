@@ -50,14 +50,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2022 - To: 06 November 2022
+From: 10 March 2022 - To: 12 November 2022
 
-Total Time: 960 hrs 1 min
+Total Time: 997 hrs 9 mins
 
-Python            841 hrs 58 mins >>>>>>>>>>>>>>>>>>>>>>---   87.70 %
-Go                49 hrs 36 mins  >------------------------   05.17 %
-HTML              17 hrs 31 mins  -------------------------   01.83 %
-Other             8 hrs 8 mins    -------------------------   00.85 %
+Python            865 hrs 14 mins >>>>>>>>>>>>>>>>>>>>>>---   86.77 %
+Go                49 hrs 36 mins  >------------------------   04.98 %
+HTML              22 hrs          >------------------------   02.21 %
+CSS               11 hrs 26 mins  -------------------------   01.15 %
+Other             8 hrs 22 mins   -------------------------   00.84 %
 ```
 
 <!--END_SECTION:waka-->
