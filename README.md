@@ -38,6 +38,7 @@
 ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
 
 ### :mag: Things I Like
+![GO](https://img.shields.io/badge/go-005571?style=flat&logo=go)
 ![Arch](https://img.shields.io/badge/ARCH%20LINUX-1793D1?logo=arch-linux&logoColor=fff&style=flat)
 ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat&logo=xfce&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NEOVIM-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
