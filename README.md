@@ -39,6 +39,7 @@
 
 ### :mag: Things I Like
 ![GO](https://img.shields.io/badge/GO-005571?style=flat&logo=GO)
+![TypeScript](https://img.shields.io/badge/TypeScript-005571?style=flat&logo=typescript)
 ![Arch](https://img.shields.io/badge/ARCH%20LINUX-1793D1?logo=arch-linux&logoColor=fff&style=flat)
 ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat&logo=xfce&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NEOVIM-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
