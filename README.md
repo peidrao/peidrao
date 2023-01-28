@@ -12,9 +12,9 @@
   
 ### :books: Latest Blog Posts
 
+- [Autenticação JWT com DRF](https://medium.com/@peidrao/autentica%C3%A7%C3%A3o-jwt-com-drf-295543744f63)
 - [Guia de sobrevivência: Typescript no Vim](https://medium.com/@peidrao/guia-de-sobreviv%C3%AAncia-typescript-no-vim-81d514b9abaf)
 - [Problema com live reload no React.Js](https://medium.com/@peidrao/problema-com-live-reload-no-react-js-aa083c608f2a)
-- [Precisamos falar sobre Deno](https://medium.com/@peidrao/precisamos-falar-sobre-deno-e4ff31ba013f)
   
   
 ### :wrench: Work Tools
