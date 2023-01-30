@@ -2,7 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/pedrofonsecaa-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrofonsecaa/)
 [![Medium](https://img.shields.io/badge/peidrao-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@peidrao)
-[![Gmail](https://img.shields.io/badge/contatopedrorn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatopedrorn@gmail.com)
+[![YouTube](https://img.shields.io/badge/Pedro%20Fonseca-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNwiRpXEAIvKDQiGVRuHkcw)
+
 
 💻 BackEnd Developer <br />
 🏡 Brazilian, Based in Cuiabá, MT 
