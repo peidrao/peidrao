@@ -30,8 +30,6 @@
 ![Jenkins](https://img.shields.io/badge/JENKIS-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=fdlat&logo=amazon-aws&logoColor=white)
 
-
-
 ### :rocket: Experience With
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
