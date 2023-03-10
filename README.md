@@ -21,41 +21,26 @@
 ### :wrench: Work Tools
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/DJANGO-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;\
-![SonarQube](https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-![Jenkins](https://img.shields.io/badge/JENKIS-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=fdlat&logo=amazon-aws&logoColor=white)
 
 ### :rocket: Experience With
+![Django](https://img.shields.io/badge/DJANGO-%23092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat&logo=fastapi&logoColor=ffffff)
+![Flask](https://img.shields.io/badge/FLASK-000000?style=flat&logo=Flask)
+![JQuery](https://img.shields.io/badge/JQUERY-0769AD?&style=flat&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/REACT-61dafb?style=flat&logo=react&logoColor=ffffff)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
 
 ### :mag: Things I Like
-![GO](https://img.shields.io/badge/GO-005571?style=flat&logo=GO)
-![React](https://img.shields.io/badge/React-005571?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-005571?style=flat&logo=typescript)
+![Go](https://img.shields.io/badge/GO-79d4fd?style=flat&logo=GO&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178c6?style=flat&logo=typescript&logoColor=ffffff)
 ![Arch](https://img.shields.io/badge/ARCH%20LINUX-1793D1?logo=arch-linux&logoColor=fff&style=flat)
 
 
-### :timer_clock: WakaTime metrics 
+### :timer_clock: WakaTime metrics
 
 <!--START_SECTION:waka-->
-
-```text
-From: 10 March 2022 - To: 02 March 2023
-
-Total Time: 1,648 hrs 30 mins
-
-Python                     1,249 hrs 39 mins>>>>>>>>>>>>>>>>>>>------   75.81 %
-Other                      91 hrs 12 mins  >------------------------   05.53 %
-```
 
 <!--END_SECTION:waka-->
