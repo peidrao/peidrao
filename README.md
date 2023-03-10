@@ -43,4 +43,13 @@
 
 <!--START_SECTION:waka-->
 
+```text
+From: 10 March 2022 - To: 09 March 2023
+
+Total Time: 1,669 hrs 16 mins
+
+Python                     1,257 hrs 32 mins>>>>>>>>>>>>>>>>>>>------   75.34 %
+Other                      91 hrs 13 mins  >------------------------   05.47 %
+```
+
 <!--END_SECTION:waka-->
