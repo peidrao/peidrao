@@ -22,11 +22,9 @@
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=fdlat&logo=amazon-aws&logoColor=white)
 
 ### :rocket: Experience With
 ![Django](https://img.shields.io/badge/DJANGO-%23092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat&logo=fastapi&logoColor=ffffff)
 ![Flask](https://img.shields.io/badge/FLASK-000000?style=flat&logo=Flask)
 ![JQuery](https://img.shields.io/badge/JQUERY-0769AD?&style=flat&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-61dafb?style=flat&logo=react&logoColor=ffffff)
@@ -34,6 +32,7 @@
 
 ### :mag: Things I Like
 ![Go](https://img.shields.io/badge/GO-79d4fd?style=flat&logo=GO&logoColor=ffffff)
+![VUe.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178c6?style=flat&logo=typescript&logoColor=ffffff)
 ![Arch](https://img.shields.io/badge/ARCH%20LINUX-1793D1?logo=arch-linux&logoColor=fff&style=flat)
 
