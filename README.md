@@ -4,7 +4,6 @@
 [![Medium](https://img.shields.io/badge/peidrao-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@peidrao)
 [![YouTube](https://img.shields.io/badge/Pedro%20Fonseca-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNwiRpXEAIvKDQiGVRuHkcw)
 
-
 💻 BackEnd Developer <br />
 🏡 Brazilian, Based in Cuiabá, MT
 
