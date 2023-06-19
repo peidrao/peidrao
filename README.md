@@ -16,9 +16,9 @@
   
 ### :wrench: Work Tools
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/GO-79d4fd?style=flat&logo=GO&logoColor=ffffff)
-![VUe.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Python](https://img.shields.io/badge/PYTHON-CEB3EF.svg?&style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/GO-FFB9C9?style=flat&logo=GO&logoColor=ffffff)
+![VUe.js](https://img.shields.io/badge/Vue.js-FFD1BF?style=flat&logo=vue.js&logoColor=4FC08D)
 
 
 ### :timer_clock: WakaTime metrics
