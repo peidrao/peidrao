@@ -1,8 +1,9 @@
 ### Hi, I'm Pedro
 
-[![LinkedIn](https://img.shields.io/badge/pedrofonsecaa-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrofonsecaa/)
-[![Medium](https://img.shields.io/badge/peidrao-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@peidrao)
-[![YouTube](https://img.shields.io/badge/Pedro%20Fonseca-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNwiRpXEAIvKDQiGVRuHkcw)
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrofonsecaa/)](https://www.linkedin.com/in/pedrofonsecaa/)
+[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/PedroFonseca)](https://www.youtube.com/channel/UCNwiRpXEAIvKDQiGVRuHkcw)
+[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@peidrao/)](https://medium.com/@peidrao)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatopedrorn@gmail.com)](mailto:contatopedrorn@gmail.com)
 
 ### :books: Latest Blog Posts
 
@@ -13,7 +14,7 @@
   
 ### :wrench: Work Tools
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/GO-79d4fd?style=flat&logo=GO&logoColor=ffffff)
 ![VUe.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 
