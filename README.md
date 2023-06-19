@@ -14,7 +14,7 @@
 - [Problema com live reload no React.Js](https://medium.com/@peidrao/problema-com-live-reload-no-react-js-aa083c608f2a)
   
   
-### :wrench: Work Tools
+### :wrench: Working with:
 
 ![Python](https://img.shields.io/badge/PYTHON-CEB3EF.svg?&style=flat&logo=python&logoColor=white)
 ![GO](https://img.shields.io/badge/GO-FFB9C9?style=flat&logo=GO&logoColor=white)
