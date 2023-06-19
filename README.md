@@ -1,9 +1,9 @@
 ### Hi, I'm Pedro
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrofonsecaa/)](https://www.linkedin.com/in/pedrofonsecaa/)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/PedroFonseca)](https://www.youtube.com/channel/UCNwiRpXEAIvKDQiGVRuHkcw)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@peidrao/)](https://medium.com/@peidrao)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatopedrorn@gmail.com)](mailto:contatopedrorn@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-pedrofonsecaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrofonsecaa/)](https://www.linkedin.com/in/pedrofonsecaa/)
+[![Youtube Badge](https://img.shields.io/badge/-PedroFonseca-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/PedroFonseca)](https://www.youtube.com/channel/UCNwiRpXEAIvKDQiGVRuHkcw)
+[![Medium Badge](https://img.shields.io/badge/-@peidrao-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@peidrao/)](https://medium.com/@peidrao)
+[![Gmail Badge](https://img.shields.io/badge/-contatopedrorn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatopedrorn@gmail.com)](mailto:contatopedrorn@gmail.com)
 
 ### :books: Latest Blog Posts
 
