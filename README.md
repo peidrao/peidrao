@@ -26,15 +26,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2022 - To: 02 March 2024
+From: 10 March 2022 - To: 08 March 2024
 
-Total Time: 3,056 hrs 3 mins
+Total Time: 3,086 hrs 10 mins
 
-Python                     2,026 hrs 5 mins>>>>>>>>>>>>>>>>>--------   66.30 %
-TypeScript                 232 hrs 9 mins  >>-----------------------   07.60 %
-Vue.js                     201 hrs 41 mins >>-----------------------   06.60 %
-Go                         115 hrs 10 mins >------------------------   03.77 %
-Other                      101 hrs 21 mins >------------------------   03.32 %
+Python                     2,032 hrs 31 mins>>>>>>>>>>>>>>>>---------   65.86 %
+TypeScript                 232 hrs 9 mins  >>-----------------------   07.52 %
+Vue.js                     201 hrs 41 mins >>-----------------------   06.54 %
+Go                         115 hrs 10 mins >------------------------   03.73 %
+HTML                       107 hrs 27 mins >------------------------   03.48 %
 ```
 
 <!--END_SECTION:waka-->
