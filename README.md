@@ -12,13 +12,6 @@
 - [Plugins para Python no Neovim](https://medium.com/@peidrao/plugins-para-python-no-neovim-d588c53fa1bb)
 - [Autenticação JWT com DRF](https://medium.com/@peidrao/autentica%C3%A7%C3%A3o-jwt-com-drf-295543744f63)
 - [Guia de sobrevivência: Typescript no Vim](https://medium.com/@peidrao/guia-de-sobreviv%C3%AAncia-typescript-no-vim-81d514b9abaf)
-  
-  
-### :wrench: Working with:
-
-![Python](https://img.shields.io/badge/PYTHON-CEB3EF.svg?&style=flat&logo=python&logoColor=white)
-![GO](https://img.shields.io/badge/GO-FFB9C9?style=flat&logo=GO&logoColor=white)
-![Vue.js](https://img.shields.io/badge/VUE.JS-FFD1BF?style=flat&logo=vue.js&logoColor=white)
 
 
 ### :timer_clock: WakaTime metrics
