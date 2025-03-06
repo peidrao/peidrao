@@ -4,8 +4,6 @@
 [![GitLab Badge](https://img.shields.io/badge/-peidrao-504945?style=flat-square&logo=Gitlab&logoColor=ebdbb2&link=https://gitlab.com/peidrao)](https://gitlab.com/peidrao)
 [![YouTube Badge](https://img.shields.io/badge/-PedroFonseca-d65d0e?style=flat-square&logo=youtube&logoColor=fbf1c7&link=https://www.youtube.com/c/PedroFonseca)](https://www.youtube.com/channel/UCNwiRpXEAIvKDQiGVRuHkcw)
 [![Medium Badge](https://img.shields.io/badge/-@peidrao-98971a?style=flat-square&logo=Medium&logoColor=fbf1c7&link=https://medium.com/@peidrao/)](https://medium.com/@peidrao)
-[![Gmail Badge](https://img.shields.io/badge/-contatopedrorn@gmail.com-b57614?style=flat-square&logo=Gmail&logoColor=fbf1c7&link=mailto:contatopedrorn@gmail.com)](mailto:contatopedrorn@gmail.com)
-
 
 ### :books: Latest Blog Posts
 
