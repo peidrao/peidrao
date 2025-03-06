@@ -1,10 +1,11 @@
 ### Hi, I'm Pedro
 
 
-[![GitLab Badge](https://img.shields.io/badge/-peidrao-7759C2?style=flat-square&logo=Gitlab&logoColor=white&link=peidrao)](https://gitlab.com/peidrao)
-[![Youtube Badge](https://img.shields.io/badge/-PedroFonseca-E24329?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/PedroFonseca)](https://www.youtube.com/channel/UCNwiRpXEAIvKDQiGVRuHkcw)
-[![Medium Badge](https://img.shields.io/badge/-@peidrao-FC6D26?style=flat-square&logo=Medium&link=https://medium.com/@peidrao/)](https://medium.com/@peidrao)
-[![Gmail Badge](https://img.shields.io/badge/-contatopedrorn@gmail.com-FCA326?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatopedrorn@gmail.com)](mailto:contatopedrorn@gmail.com)
+[![GitLab Badge](https://img.shields.io/badge/-peidrao-504945?style=flat-square&logo=Gitlab&logoColor=ebdbb2&link=https://gitlab.com/peidrao)](https://gitlab.com/peidrao)
+[![YouTube Badge](https://img.shields.io/badge/-PedroFonseca-d65d0e?style=flat-square&logo=youtube&logoColor=fbf1c7&link=https://www.youtube.com/c/PedroFonseca)](https://www.youtube.com/channel/UCNwiRpXEAIvKDQiGVRuHkcw)
+[![Medium Badge](https://img.shields.io/badge/-@peidrao-98971a?style=flat-square&logo=Medium&logoColor=fbf1c7&link=https://medium.com/@peidrao/)](https://medium.com/@peidrao)
+[![Gmail Badge](https://img.shields.io/badge/-contatopedrorn@gmail.com-b57614?style=flat-square&logo=Gmail&logoColor=fbf1c7&link=mailto:contatopedrorn@gmail.com)](mailto:contatopedrorn@gmail.com)
+
 
 ### :books: Latest Blog Posts
 
