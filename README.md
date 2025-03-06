@@ -11,7 +11,7 @@
 - [Plugins para Python no Neovim](https://medium.com/@peidrao/plugins-para-python-no-neovim-d588c53fa1bb)
 - [Autenticação JWT com DRF](https://medium.com/@peidrao/autentica%C3%A7%C3%A3o-jwt-com-drf-295543744f63)
 - [Guia de sobrevivência: Typescript no Vim](https://medium.com/@peidrao/guia-de-sobreviv%C3%AAncia-typescript-no-vim-81d514b9abaf)
-
+- [Wicd no Slackware (i love linux)](https://www.vivaolinux.com.br/dica/Wicd-no-Slackware/)
 
 ### :timer_clock: WakaTime metrics
 
