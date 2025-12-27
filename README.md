@@ -7,6 +7,7 @@
 
 ### :books: Latest Blog Posts
 
+- [Veni, vidi, vici](https://medium.com/@peidrao/veni-vidi-vici-6237901dc49f)
 - [🧠 Grafos: O Poder dos Relacionamentos Simples!](https://medium.com/@peidrao/grafos-o-poder-dos-relacionamentos-simples-8714e09ae40c)
 - [Autenticação JWT com DRF](https://medium.com/@peidrao/autentica%C3%A7%C3%A3o-jwt-com-drf-295543744f63)
 - [Guia de sobrevivência: Typescript no Vim](https://medium.com/@peidrao/guia-de-sobreviv%C3%AAncia-typescript-no-vim-81d514b9abaf)
