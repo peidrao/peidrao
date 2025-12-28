@@ -18,15 +18,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2022 - To: 21 December 2025
+From: 10 March 2022 - To: 28 December 2025
 
-Total Time: 5,913 hrs 1 min
+Total Time: 5,927 hrs 33 mins
 
-Python                     3,241 hrs 45 mins█████████████▓░░░░░░░░░░░   54.82 %
-TypeScript                 973 hrs 33 mins ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
-HTML                       448 hrs 14 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-Vue.js                     307 hrs 56 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Other                      121 hrs 11 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Python                     3,253 hrs 26 mins█████████████▓░░░░░░░░░░░   54.89 %
+TypeScript                 973 hrs 33 mins ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+HTML                       449 hrs 31 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+Vue.js                     307 hrs 56 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Other                      121 hrs 22 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
